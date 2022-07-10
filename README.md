@@ -1,6 +1,6 @@
 [![Anvar's GitHub Banner](./assets/GitHubHeader.jpg)](https://anvarmirzo.github.io/me/public/)
 
-[![Visits Badge](https://badges.pufler.dev/visits/Anvarmirzo/Anvarmirzo)](https://anvarmirzo.github.io/me/public/)
+[![](https://komarev.com/ghpvc/?username=anvarmirzo&label=PROFILE+VIEWS)](https://anvarmirzo.github.io/me/public/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anvar-akhmadjanov-45a297203)
 [![Gitlab Badge](https://img.shields.io/badge/Gitlab-Profile-informational?style=flat&logo=gitlab&logoColor=white&color=0D76A8)](https://gitlab.com/yourBadApple)
 
