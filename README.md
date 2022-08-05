@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anvar-akhmadjanov-45a297203)
 [![Gitlab Badge](https://img.shields.io/badge/Gitlab-Profile-informational?style=flat&logo=gitlab&logoColor=white&color=0D76A8)](https://gitlab.com/yourBadApple)
 
-Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I’m Anvar, creative coder who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
