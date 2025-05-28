@@ -14,20 +14,6 @@ I'm **Anvar**, a creative front-end developer passionate about turning user-cent
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Anvarmirzo">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Anvarmirzo&show_icons=true&count_private=true&theme=react&hide_border=true" alt="Anvar's GitHub Stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/Anvarmirzo">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Anvarmirzo&layout=compact&hide=html,css&theme=react&hide_border=true" alt="Top Langs" />
-  </a>
-</p>
-
----
-
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
